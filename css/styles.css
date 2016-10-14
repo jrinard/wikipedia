@@ -2,6 +2,9 @@
   margin: 0;
   padding: 0;
 }
+.container {
+    width: 100%;
+}
 body {
   background: linear-gradient(#fff, #efefef, #efefef, #efefef);
 }
@@ -14,8 +17,6 @@ body {
   background-color: #fff;
   margin-top: 50px;
   border: solid thin #8cb3f2;
-
-
 }
 #welcome {
   padding: 0px 25px;
@@ -93,6 +94,7 @@ body {
   border: solid thin #70bfa2;
   list-style-position: inside;
 }
+
 #green img {
   padding: 0px 10px 10px 0px;
 }
